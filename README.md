@@ -1,5 +1,5 @@
 # Housing_website
 
-You can see website
+Możesz zobaczyć efekty na tej stronie:
 
 https://czym-zajmowal-sie-kacper.herokuapp.com/
